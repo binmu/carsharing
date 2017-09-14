@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-collections4-4.1">
+    <archive path="E:/Car_Sharing/CarSharing/commons-collections4-4.1.jar" />
+  </library>
+  <library name="commons-dbutils-1.7">
+    <archive path="E:/Car_Sharing/CarSharing/commons-dbutils-1.7.jar" />
+  </library>
+  <library name="darcula">
+    <archive path="E:/Car_Sharing/CarSharing/darcula.jar" />
+  </library>
+  <library name="druid-1.0.31">
+    <archive path="E:/Car_Sharing/CarSharing/druid-1.0.31.jar" />
+  </library>
+  <library name="mysql-connector-java-5.1.43-bin">
+    <archive path="E:/Car_Sharing/CarSharing/mysql-connector-java-5.1.43-bin.jar" />
+  </library>
+  <library name="poi-3.16">
+    <archive path="E:/Car_Sharing/CarSharing/poi-3.16.jar" />
+  </library>
+  <library name="poi-ooxml-3.16">
+    <archive path="E:/Car_Sharing/CarSharing/poi-ooxml-3.16.jar" />
+  </library>
+  <library name="poi-ooxml-schemas-3.16">
+    <archive path="E:/Car_Sharing/CarSharing/poi-ooxml-schemas-3.16.jar" />
+  </library>
+  <library name="thumbnailator-0.4.8">
+    <archive path="E:/Car_Sharing/CarSharing/thumbnailator-0.4.8.jar" />
+  </library>
+  <library name="xmlbeans-2.6.0">
+    <archive path="E:/Car_Sharing/CarSharing/xmlbeans-2.6.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

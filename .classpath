@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/darcula"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.43-bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/poi-3.16"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-dbutils-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/druid-1.0.31"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/thumbnailator-0.4.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/poi-ooxml-3.16"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-collections4-4.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/poi-ooxml-schemas-3.16"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/xmlbeans-2.6.0"/>
+	<classpathentry kind="lib" path="commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="commons-dbutils-1.7.jar"/>
+	<classpathentry kind="lib" path="darcula.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.43-bin.jar"/>
+	<classpathentry kind="lib" path="poi-3.16.jar"/>
+	<classpathentry kind="lib" path="poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="thumbnailator-0.4.8.jar"/>
+	<classpathentry kind="lib" path="xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="druid-1.0.31.jar"/>
+	<classpathentry kind="output" path="out/production/CarSharing"/>
+</classpath>

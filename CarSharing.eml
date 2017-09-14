@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/CarSharing"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="darcula" value="project"/>
+		<level name="mysql-connector-java-5.1.43-bin" value="project"/>
+		<level name="poi-3.16" value="project"/>
+		<level name="commons-dbutils-1.7" value="project"/>
+		<level name="druid-1.0.31" value="project"/>
+		<level name="thumbnailator-0.4.8" value="project"/>
+		<level name="poi-ooxml-3.16" value="project"/>
+		<level name="commons-collections4-4.1" value="project"/>
+		<level name="poi-ooxml-schemas-3.16" value="project"/>
+		<level name="xmlbeans-2.6.0" value="project"/>
+	</levels>
+</component>

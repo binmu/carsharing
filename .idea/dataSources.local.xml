@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="group13_db@localhost" uuid="ad90a0cd-bdda-4bb0-af2c-363ec67a5c42">
+      <database-info product="MySQL" version="5.5.5-10.2.8-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>myIdeaIDE</user-name>
+      <introspection-schemas>*:group13_db</introspection-schemas>
+    </data-source>
+    <data-source name="liBGroup@localhost" uuid="b4496fd7-d63e-4909-a86a-4ac105c133a1">
+      <database-info product="MySQL" version="5.5.5-10.2.8-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>geek04</user-name>
+      <introspection-schemas>*:telecom</introspection-schemas>
+    </data-source>
+    <data-source name="test@localhost" uuid="bda6d894-fc8e-4bcc-b086-a2def3d063a9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+  </component>
+</project>
